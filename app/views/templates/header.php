@@ -21,9 +21,7 @@
                 <div class="navbar-nav">
                     <!-- controller -->
                     <a class="nav-link active" aria-current="page" href="<?= BASEURL; ?>">Home</a>
-                    <a class="nav-link" href="<?= BASEURL; ?>/mahasiswa">Mahasiswa</a>
-                    <a class="nav-link" href="<?= BASEURL; ?>/about">About</a>
-
+                    <a class="nav-link" href="<?= BASEURL; ?>/users">Users</a>
                 </div>
             </div>
 
